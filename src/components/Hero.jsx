@@ -16,7 +16,7 @@ export default function Hero() {
 
       <div className="links">
         <a href="https://linkedin.com/in/rameshkaviyamudan" target="_blank">LinkedIn</a>
-        <a href="https://github.com/YOUR_USERNAME"             target="_blank">GitHub</a>
+        <a href="https://github.com/rameshkaviyamudan"             target="_blank">GitHub</a>
         <a href="/resume.pdf"                                   target="_blank">Resume</a>
       </div>
     </section>
