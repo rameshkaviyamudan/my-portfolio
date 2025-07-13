@@ -5,13 +5,12 @@ export default function Education() {
       <ul>
         <li>
           <strong>Diploma in Computer Engineering</strong>
-          <br />
-          Specialization in AI & ML
-          <br />
+         (with Merit)  <br />
+         <br />
           <span style={{color: '#646cff', fontWeight: 600}}>CGPA: 3.96</span>
           <br />
           <em style={{color: 'rgba(255, 255, 255, 0.7)', fontSize: '0.9rem'}}>
-            Focus on machine learning algorithms, data structures, and software engineering principles
+            Focus on Computing Fundamentals, data structures, and software engineering principles
           </em>
         </li>
       </ul>
